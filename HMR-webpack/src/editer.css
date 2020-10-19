@@ -1,0 +1,8 @@
+.editor {
+    width: 400px;
+    height: 500px;
+    z-index: 999999;
+    padding: 30px;
+    color: #666666;
+    background-color: #EDEDED;
+}
